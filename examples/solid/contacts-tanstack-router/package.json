@@ -22,7 +22,7 @@
     "@tanstack/router-plugin": "^1.168.48",
     "eslint-plugin-solid": "^0.18.1",
     "typescript": "^6.0.3",
-    "vite": "^8.3.5",
+    "vite": "^8.3.6",
     "vite-plugin-solid": "^2.11.15"
   }
 }
